@@ -1,6 +1,6 @@
 ## **Eu sou o Eiji**😉💻
 
-Meu nome é Eiji, atualmente tenho 21 anos e sou nascido de Manaus no estado do Amazonas. Atualmente estou cursando Sistemas de Informação no ICET-UFAM na cidade de Itacoatiara. Sou muito interessado na área da tecnologia, buscando sempre desenvolver habilidades exigidas no mercado de TI.
+Meu nome é Eiji, atualmente tenho 21 anos e sou nascido de Manaus no estado do Amazonas. Atualmente estou cursando Sistemas de Informação no ICET-UFAM na cidade de Itacoatiara. Sou muito interessado na área da tecnologia (principalmente na área de web), buscando sempre desenvolver habilidades exigidas no mercado de TI.
 
 ### **Tecnologias Utilizadas**
 
