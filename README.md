@@ -1,6 +1,6 @@
 # **Eu sou o Eiji Taguchi**😉💻
 
-Atualmente tenho 22 anos e sou nascido de Manaus no estado do Amazonas. Atualmente estou cursando Sistemas de Informação no ICET-UFAM (2021-2026) na cidade de Itacoatiara. Sou muito interessado na área da tecnologia (principalmente na área de web), buscando sempre desenvolver habilidades exigidas no mercado de TI.
+Sou nascido de Manaus no estado do Amazonas e  atualmente estou cursando Sistemas de Informação no ICET-UFAM (2021-2026) na cidade de Itacoatiara. Sou muito interessado na área da tecnologia (principalmente na área de web), buscando sempre desenvolver habilidades exigidas no mercado de TI.
 
 ### **Tecnologias Utilizadas**
 
